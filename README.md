@@ -40,6 +40,8 @@ projetos: https://github.com/training-center/divertidalista
 # Musicas ;)
 
 The Weeknd (Youtube): https://www.youtube.com/watch?v=XR7Ev14vUh8&list=RDXR7Ev14vUh8
+
 Kendrick Lamar (Youtube): https://www.youtube.com/watch?v=JQbjS0_ZfJ0
+
 Axwell Λ Ingrosso (Youtube): https://www.youtube.com/watch?v=nbXgHAzUWB0
 
