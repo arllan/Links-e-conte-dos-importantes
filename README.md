@@ -30,6 +30,9 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 
 * Gerador de grid: http://www.layoutit.com/
 
+# Paginas relevantes 
+* training-center: https://github.com/training-center
+
 # Projetos diversos
 
 projetos: https://github.com/training-center/divertidalista
