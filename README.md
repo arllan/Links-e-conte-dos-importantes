@@ -36,3 +36,7 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 # Projetos diversos
 
 projetos: https://github.com/training-center/divertidalista
+
+# Musicas ;)
+
+The Weeknd (Youtube): https://www.youtube.com/watch?v=XR7Ev14vUh8&list=RDXR7Ev14vUh8
