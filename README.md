@@ -1,31 +1,35 @@
 # Links-e-conteudos-importantes
 Neste repositorio vai conter alguns links de grande relevancia para um programador. 
 
-Sublime
+# Sublime
 
 * Criando e utilizando snippets :http://sublimetextdicas.com.br/snippets-como-criar-atalhos-para-trechos-de-codigo-ou-texto/
 
 
-Sites importantes
+# Sites importantes
 
-1- Diversos conteudos sobre desenvolvimento: https://github.com/awesome-br/awesome-br.github.io
+* Diversos conteudos sobre desenvolvimento: https://github.com/awesome-br/awesome-br.github.io
 
-2- conteudo sobre sublime: http://awesome-br.com/#/sublime 
+* conteudo sobre sublime: http://awesome-br.com/#/sublime 
 
-Palestras e videos
+# Palestras e videos
 
-1- http://free-time.github.io/
-
-
-Design
-
-1- Paletas de cores: http://colorhunt.co/
+* http://free-time.github.io/
 
 
-Bootstrap
+# Design
 
-1- Gerador de botão: http://www.plugolabs.com/twitter-bootstrap-button-generator-3/ 
+* Paletas de cores: http://colorhunt.co/
 
-2- Gerador de tabelas e menus: https://getbootstrap.com/docs/3.3/css/#tables
 
-3- Gerador de grid: http://www.layoutit.com/
+# Bootstrap
+
+* Gerador de botão: http://www.plugolabs.com/twitter-bootstrap-button-generator-3/ 
+
+* Gerador de tabelas e menus: https://getbootstrap.com/docs/3.3/css/#tables
+
+* Gerador de grid: http://www.layoutit.com/
+
+# Projetos diversos
+
+projetos: https://github.com/training-center/divertidalista
