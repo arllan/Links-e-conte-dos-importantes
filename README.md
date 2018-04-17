@@ -30,6 +30,10 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 
 * Gerador de grid: http://www.layoutit.com/
 
+# HTML + javscript +  css e muito mais
+
+* Utilizando cache em uma aplicação: https://www.html5rocks.com/pt/tutorials/appcache/beginner/
+
 # Paginas relevantes 
 * training-center: https://github.com/training-center
 
