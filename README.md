@@ -33,6 +33,7 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 # HTML + javscript +  css e muito mais
 
 * Utilizando cache em uma aplicação: https://www.html5rocks.com/pt/tutorials/appcache/beginner/
+* criando extensão para o google chomer: https://developer.chrome.com/extensions
 
 # Paginas relevantes 
 * training-center: https://github.com/training-center
