@@ -16,6 +16,11 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 
 * http://free-time.github.io/
 
+# Javascript
+
+* Gerador de json: http://www.objgen.com/json
+* Gerador de json (exemplo): http://www.objgen.com/json/models/XiW
+
 
 # Design
 
