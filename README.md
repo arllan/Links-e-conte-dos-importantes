@@ -21,6 +21,10 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 * Gerador de json: http://www.objgen.com/json
 * Gerador de json (exemplo): http://www.objgen.com/json/models/XiW
 
+# jquery
+
+* utilizando ajax com a biblioteca jquery: https://www.devmedia.com.br/ajax-com-jquery-trabalhando-com-requisicoes-assincronas/37141
+
 
 # Design
 
