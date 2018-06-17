@@ -41,6 +41,12 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 
 * Galeria de projetos com bootstrap: https://bootsnipp.com/search?q=form
 
+* validação de formulario, plugin validate: https://jqueryvalidation.org/documentation/
+
+* validação de formulario: http://1000hz.github.io/bootstrap-validator/
+
+* tour em aplicação com bootstrat: http://bootstraptour.com/
+
 # HTML + javscript +  css e muito mais
 
 * Utilizando cache em uma aplicação: https://www.html5rocks.com/pt/tutorials/appcache/beginner/
