@@ -25,6 +25,33 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 
 * utilizando ajax com a biblioteca jquery: https://www.devmedia.com.br/ajax-com-jquery-trabalhando-com-requisicoes-assincronas/37141
 
+# PHP
+
+ FILTER INPUT
+
+ filter_input(type, variable, filter, options)
+ 
+ type: Forma de entrada de dados
+  *INPUT_GET
+  *INPUT_POST
+  *INPUT_COOKIE
+  *INPUT_SERVER
+  *INPUT_ENV
+  
+ variable: variavel a ser filtrada (entrada de dados)
+ *entrada de informação a ser validada
+ 
+ filter: tipo de filtragem
+ 
+ https://www.w3schools.com/php/php_ref_filter.asp
+ 
+ referencias: 
+ 
+ http://php.net/manual/pt_BR/function.filter-input.php
+ 
+ https://www.w3schools.com/php/func_filter_input.asp
+ 
+ 
 
 # Design
 
