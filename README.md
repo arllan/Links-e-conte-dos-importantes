@@ -74,6 +74,9 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 
 * tour em aplicação com bootstrat: http://bootstraptour.com/
 
+* Varios plugins para bootstrap: https://startbootstrap.com/bootstrap-resources/#dev-tools
+
+
 # HTML + javscript +  css e muito mais
 
 * Utilizando cache em uma aplicação: https://www.html5rocks.com/pt/tutorials/appcache/beginner/
