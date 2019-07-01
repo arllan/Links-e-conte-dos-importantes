@@ -83,6 +83,7 @@ Neste repositorio vai conter alguns links de grande relevancia para um programad
 * criando extensão para o google chromer: https://developer.chrome.com/extensions
 * video aulas de como criar extensão para o google chrome: https://www.youtube.com/watch?v=9COqOKWPENw
 * começando com axios: http://codeheaven.io/how-to-use-axios-as-your-http-client-pt/
+* Efeito em paginas: https://michalsnik.github.io/aos/
 
 # (GitHub) - Escrevendo arquivos .md
 * site para escrever: https://dillinger.io/
